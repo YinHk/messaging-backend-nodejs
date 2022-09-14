@@ -1,0 +1,22 @@
+{
+  "name": "messaging-backend-nodejs",
+  "version": "1.0.0",
+  "description": " instant messaging backend (nodejs) using getstream api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YinHk/messaging-backend-nodejs.git"
+  },
+  "keywords": [
+    "messaging"
+  ],
+  "author": "YinHk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YinHk/messaging-backend-nodejs/issues"
+  },
+  "homepage": "https://github.com/YinHk/messaging-backend-nodejs#readme"
+}
